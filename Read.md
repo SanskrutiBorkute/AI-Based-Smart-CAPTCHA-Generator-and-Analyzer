@@ -33,7 +33,7 @@ This project aims to solve this problem by creating a smart CAPTCHA system that 
 
 ## 3. Methodology
 
-The system generates random CAPTCHA images using characters, distortions, and noise. Then, a strength analyzer checks how difficult it is for a bot to solve the CAPTCHA. AI techniques are used to test and improve CAPTCHA security. The system adjusts the CAPTCHA complexity based on analysis results.
+- The system generates random CAPTCHA images using characters, distortions, and noise. Then, a strength analyzer checks how difficult it is for a bot to solve the CAPTCHA. AI techniques are used to test and improve CAPTCHA security. The system adjusts the CAPTCHA complexity based on analysis results.
 ---
 
 ## 4. Implementation
@@ -50,9 +50,9 @@ NumPy
 
 Tools Used:
 
-VS Code
-Google Colab
-GitHub
+- VS Code
+- Google Colab
+- GitHub
 ---
 
 ## 5. Results and Discussion
