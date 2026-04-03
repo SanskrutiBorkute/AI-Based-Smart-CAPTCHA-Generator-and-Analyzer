@@ -1,4 +1,4 @@
-# Project Title
+https://github.com/SanskrutiBorkute/AI-Based-Smart-CAPTCHA-Generator-and-Analyzer/tree/main# Project Title
 # AI-Based Daily Wage Employment System
 
 ### Author
@@ -38,7 +38,7 @@ This project improves existing systems by focusing on daily wage employment and 
 ---
 
 ## 3. Methodology
-The system collects data from workers such as skills, location, and availability. Employers post job requirements. AI algorithms analyze both datasets and match suitable workers with jobs. The system also provides notifications and updates to both workers and employers.
+- The system collects data from workers such as skills, location, and availability. Employers post job requirements. AI algorithms analyze both datasets and match suitable workers with jobs. The system also provides notifications and updates to both workers and employers.
 ---
 
 ## 4. Implementation
@@ -83,7 +83,7 @@ Tools Used:
 
 ## 8. Conclusion
 
-This project provides a smart and efficient solution for connecting daily wage workers with employers. It helps reduce unemployment and improves the hiring process using AI.
+- This project provides a smart and efficient solution for connecting daily wage workers with employers. It helps reduce unemployment and improves the hiring process using AI.
 ---
 
 ## References
